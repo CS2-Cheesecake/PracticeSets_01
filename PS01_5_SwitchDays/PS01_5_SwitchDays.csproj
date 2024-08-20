@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>f4618448-3a18-43fa-96a7-5f27ef208abe</ProjectGuid>
+    <ProjectGuid>{4B8D21AC-6EBE-4D02-8FB2-C848DF24A61C}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>PS01_5_SwitchDays</RootNamespace>

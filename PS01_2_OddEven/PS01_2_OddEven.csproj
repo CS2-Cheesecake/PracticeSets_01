@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>cf0f6e54-5600-444b-9171-11d6daad1af6</ProjectGuid>
+    <ProjectGuid>{F7E3248F-03FC-4213-AF96-C52F9F21178F}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>PS01_2_OddEven</RootNamespace>
